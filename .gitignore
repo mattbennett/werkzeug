@@ -10,3 +10,9 @@ bench/a
 bench/b
 .coverage
 coverage_out
+
+.project
+
+.pydevproject
+
+.settings/org.eclipse.core.resources.prefs
